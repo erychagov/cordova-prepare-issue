@@ -1,4 +1,9 @@
-www/
+www/*
+!www/.gitkeep
+
+!plugins
+!plugins/*.json
 plugins/
-platforms/
+
+platforms/*
 node_modules/
